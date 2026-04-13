@@ -274,10 +274,6 @@
 
 <div align="center">
 
-![Mahabur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahabur-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahabur-dev&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahabur-dev&theme=tokyonight&hide_border=true)
 
 </div>
