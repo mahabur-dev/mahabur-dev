@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 🎓 **B.Sc. in Computer Science & Engineering** - Islamic University, Bangladesh (CGPA: 3.20/4.00)  
-💼 **Junior Backend Developer** @ ScaleUp Ads Agency | Laravel + Node.js  
+💼 **Executive Backend** @ ScaleUp Ads Agency | NestJS + Laravel  
 🏆 **Competitive Programmer** - Solved **1300+ problems** across platforms  
 🌱 **Currently Exploring:** Real-time communication, Docker, WebRTC, and AI-powered backends  
 💡 **Interests:** Backend Development, System Design, Competitive Programming, Problem Solving  
