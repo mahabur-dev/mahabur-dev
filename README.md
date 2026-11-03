@@ -2,7 +2,10 @@
   
 # 👋 Hi, I'm Mahabur Rahman!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Problem+Solver;Laravel+%2B+Node.js+Developer;1300%2B+Problems+Solved;Competitive+Programmer;Building+Scalable+Solutions!" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+Software+Engineer+%7C+Problem+Solver;React+%7C+Next.js+%7C+NestJS+%7C+Node.js+%7C+Laravel;1300%2B+Problems+Solved;Competitive+Programmer;Building+Scalable+Solutions!"
+  alt="Typing SVG"
+/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Wrong1234&color=blueviolet&style=flat-square)](https://github.com/Wrong1234)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mahabur-rahman)
