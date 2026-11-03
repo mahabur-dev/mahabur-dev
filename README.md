@@ -167,7 +167,7 @@
   
 # 👋 Hi, I'm Mahabur Rahman!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Problem+Solver;Laravel+%2B+Node.js+Developer;1300%2B+Problems+Solved;Competitive+Programmer;Building+Scalable+Solutions!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer+%7C+Problem+Solver;React+%7C+Next.js+%7C+NestJS+%7C+Node.js+%7C+Laravel;1300%2B+Problems+Solved;Competitive+Programmer;Building+Scalable+Solutions!&v=20261103" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahabur-dev&color=blueviolet&style=flat-square)](https://github.com/mahabur-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mahabur-rahman)
@@ -180,7 +180,7 @@
 ## 🚀 About Me
 
 🎓 **B.Sc. in Computer Science & Engineering** - Islamic University, Bangladesh (CGPA: 3.20/4.00)  
-💼 **Junior Backend Developer** @ ScaleUp Ads Agency | Laravel + Node.js  
+💼 **Executive Backend** @ ScaleUp Ads Agency | NestJS + Laravel  
 🏆 **Competitive Programmer** - Solved **1300+ problems** across platforms  
 🌱 **Currently Exploring:** Real-time communication, Docker, WebRTC, and AI-powered backends  
 💡 **Interests:** Backend Development, System Design, Competitive Programming, Problem Solving  
@@ -190,9 +190,9 @@
 
 ## 💼 Professional Experience
 
-### 🔹 Junior Backend Developer | ScaleUp Ads Agency
+### 🔹 Executive Backend | ScaleUp Ads Agency
 **Sep 2025 - Present** | Dhaka, Bangladesh
-- Developing scalable backend services using **Node.js, Express.js, and MongoDB**
+- Developing scalable backend services using **Node.js, Express.js,NestJS, Laravel and MongoDB, Prisma, PostgreSQL, MySQL**
 - Implementing real-time communication with **Socket.IO and WebRTC**
 - Integrating **Stripe payments, webhooks**, and AI-powered backend features
 - Optimizing databases, containerizing with **Docker**, and writing unit tests
